@@ -16,8 +16,8 @@ This project is a data driven dashboard that helps university students compare p
 The dataset contains:
 
 - Job Title
-- Comapny 
-- Hourly wage
+- Company 
+- Hourly Wage
 - Location
 - Category
 - Language Requirement
@@ -33,10 +33,10 @@ Run the application:
 python -m streamlit run app.py
 ```
 
-##  Future Improvements 
+## Future Improvements 
 - Automatic data collection using web scraping
 - Real-time job updates
 - Personalized job recommendations
 
 ## Author
-B13902095 David Hsia Alexander
+B13902095 David Hsiao Alexander
